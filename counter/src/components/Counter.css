@@ -1,0 +1,16 @@
+h3{
+    margin-left: 60px;
+}
+button{
+    width: 100px;
+    margin-left: 50px;
+}
+#add{
+    background-color: lightgreen;
+}
+#sub{
+    background-color: lightcoral;
+}
+#reset{
+    background-color: lightblue;
+}
